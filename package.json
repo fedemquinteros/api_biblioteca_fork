@@ -1,7 +1,6 @@
 {
   "name": "api_biblioteca",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node src/app.js",
@@ -20,5 +19,6 @@
   "devDependencies": {
     "jest": "^29.7.0",
     "supertest": "^6.3.4"
-  }
+  },
+  "description": ""
 }
